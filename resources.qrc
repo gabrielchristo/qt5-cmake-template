@@ -1,0 +1,7 @@
+<RCC>
+	<qresource>
+		<!-- some random comment -->
+		<file>./qt_logo.png</file>
+		<file>./style.qss</file>
+	</qresource>
+</RCC>
